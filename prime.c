@@ -12,14 +12,4 @@ int prime(int n)
     return flag;
 }
 
-/*void main()
-{ int n,f;
-  printf("Enter a number:");
-  scanf("%d",&n);
-  f=prime(n);
-  if(f==0)
-    printf("Prime");
-  else
-    printf("Not Prime");
-  
-  }*/
+
